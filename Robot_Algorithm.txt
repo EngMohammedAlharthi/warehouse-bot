@@ -1,0 +1,25 @@
+Step-by-step Algorithm:
+
+Start the robot system
+→ Initialize all motors and sensors.
+
+Scan the environment
+→ Use sensors to detect available food items and storage locations.
+
+Navigate to the pickup location
+→ Move the robot arm or mobile base to the item’s location.
+
+Pick up the item
+→ Use a gripper or suction system to grab the food item securely.
+
+Navigate to the storage area
+→ Plan a path to the correct shelf or storage bin.
+
+Place the item in storage
+→ Release the item in the assigned position.
+
+Return to idle or scan for next task
+→ Repeat the process or wait for the next command.
+
+Stop operation if task is completed or on manual override
+
